@@ -1,0 +1,1 @@
+# mule-json-schema-serializer
